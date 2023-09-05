@@ -1,0 +1,6 @@
+com\emergentes\RDMA_cabeceras\rdmaXML.class
+com\emergentes\RDMA_cabeceras\rdmaCSV.class
+com\emergentes\RDMA_cabeceras\rdmaJSON.class
+com\emergentes\RDMA_cabeceras\rdmaXLS.class
+com\emergentes\cabeceras_rdma\rdmaPDF.class
+com\emergentes\RDMA_cabeceras\rdmaHTML.class
